@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Githuber</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="af_1">Personal access token</string>
+    <string name="af_2">SIGN IN</string>
+    <string name="df_1">License</string>
+    <string name="df_2">Features</string>
+    <string name="df_3">Requirements</string>
+    <string name="df_4">Installation</string>
+
 </resources>
